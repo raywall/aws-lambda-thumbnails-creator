@@ -10,6 +10,7 @@ aws_region = "us-east-1"
 lambda_function_source_code = "../dist/."
 s3_bucket_name = "building-strong-serverless-application"
 
+
 ####
 # LAMBDA FUNCTION
 ####
