@@ -1,0 +1,1 @@
+# aws-lambda-thumbnails-creator
